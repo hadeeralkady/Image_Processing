@@ -1,0 +1,1 @@
+The Scrolling Image Processor App is a versatile image processing tool developed using Tkinter, OpenCV, PIL (Pillow), and NumPy. It provides a user-friendly interface for performing various image manipulations, from basic operations like resizing and color conversion to advanced tasks such as morphology operations and contrast adjustments.
